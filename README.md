@@ -1,4 +1,4 @@
-# Email Triage: MVP in a Few Hours
+# Email Triage (MVP)
 
 A small script that, for your mailboxes, **sorts** incoming mail into categories (Gmail labels),
 **prepares a draft reply** for suitable emails, and finally builds a **digest** for the
